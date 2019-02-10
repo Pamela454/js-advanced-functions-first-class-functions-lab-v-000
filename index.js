@@ -14,3 +14,4 @@ function createFareMultiplier(integer) {
     return fare * integer
   }
 }
+
